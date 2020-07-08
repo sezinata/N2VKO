@@ -6,3 +6,5 @@ In this study, multiple feature selection (MRMR, EARTH, VarImp, Stepwise Linear 
 SMOTE oversampling methods have been performed.
 
 These techniques are applied to the concatenated feature vectors consist of node2vec embeddings and biological annotations (downloaded Keywords from Uniprot).
+
+Necessary data formats are explained through an example dataset.
